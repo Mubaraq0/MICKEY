@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['254114148625'] //ur owner number
-global.ownernomer = "254114148625" //ur owner number2
-global.ownername = "KANAMBO" //ur owner name
-global.ytname = "YT: MICKEY" //ur yt chanel name
-global.socialm = "GitHub: Kanambp" //ur github or insta name
+global.owner = ['254782121248'] //ur owner number
+global.ownernomer = "254782121248" //ur owner number2
+global.ownername = "Senku" //ur owner name
+global.ytname = "YT: Senku" //ur yt chanel name
+global.socialm = "GitHub: Senku" //ur github or insta name
 global.location = "Kenya, Nairobi, Kasarani" //ur location
 
 //new
-global.botname = "MICKEY BOT"
-global.ownernumber = '254114148625'
+global.botname = "MBOT"
+global.ownernumber = '254782121248'
 global.ownername = 'KANAMBO'
-global.ownerNumber = ["254114148625@s.whatsapp.net"]
+global.ownerNumber = ["254782121248@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com"
 global.websitex = "https://youtu.be"
-global.wagc = "https://chat.whatsapp.com/Ei8SGOBRMH06aD3mk23fbF"
+global.wagc = "https://chat.whatsapp.com/IEJrKqgWuEyEycPEifGU1C"
 global.themeemoji = '🙋🏾‍♂️'
-global.wm = "Kanambo Bot Inc."
-global.botscript = 'https://github.com/Kanambp/MICKEY' //script link
+global.wm = "Senku Bot Inc."
+global.botscript = 'https://github.com/Mubaraq0/MICKEY' //script link
 global.packname = "Sticker By"
-global.author = "🙋🏾‍♂️KANAMBO\n\n+254114148625"
-global.creator = "254114148625@s.whatsapp.net"
+global.author = "🙋🏾‍♂️KANAMBO\n\n+254782121248"
+global.creator = "254782121248@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Here Mickey is done clap for me😍!', 
+    success: 'Here Senku is done clap for me😍!', 
 }
 
 let file = require.resolve(__filename)
